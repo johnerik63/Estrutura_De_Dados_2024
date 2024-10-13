@@ -1,7 +1,7 @@
 # Seja Bem-Vindo 😁
 
 > [!NOTE]
-> Seja muito bem vindo ao meu repositório da disciplina de MC202, aqui você vai encontrar os laboratórios (projetos) desenvolvidos nesta disciplina. E para facilitar sua experiência, eu coloquei neste readme, 
+> Seja muito bem vindo ao meu repositório da disciplina de Estrutura de Dados, aqui você vai encontrar os laboratórios (projetos) desenvolvidos nesta disciplina. E para facilitar sua experiência, eu coloquei neste readme, 
 >  de forma detalhada e organizada, coloquei os projetos que mostram habilidades importantes que adquiri ao fazê-los. Se divirta!! 😎
 
 >[!IMPORTANT]
