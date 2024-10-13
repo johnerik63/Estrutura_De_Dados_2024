@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/16a79a0e-238e-403f-b7e0-84c770e0d202" alt = "codigo" width="1200" height="200">
 
 
-## Projetos Feitos na disciplina de Estrutura de Dados - Unicamp <img align="center" alt="C" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+## Projetos Feitos na disciplina de Estrutura de Dados - USJT <img align="center" alt="C" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
 <div align='center'>
 
@@ -64,13 +64,13 @@ Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o cód
 
 
 ```bash
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_01/Lab_01.c
+https://github.com/johnerik63/Estrutura_De_Dados_2024/blob/main/lab_01/Lab_01.c
 ```
 ## Todos os Arquivos do Repositório 🗃️
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
+https://github.com/johnerik63/Estrutura_De_Dados_2024
 ```
 
 </div>
@@ -84,7 +84,7 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_01/Lab_01.c"><img src="https://github.com/user-attachments/assets/87238413-0711-41db-b0d5-30a2e09eadbf" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_01/imagens"><img src="https://github.com/user-attachments/assets/72f0ff52-d886-430f-8734-61290204aff7" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/johnerik63/Estrutura_De_Dados_2024/blob/main/lab_01/Lab_01.c"><img src="https://github.com/user-attachments/assets/87238413-0711-41db-b0d5-30a2e09eadbf" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_01/imagens"><img src="https://github.com/user-attachments/assets/72f0ff52-d886-430f-8734-61290204aff7" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
 
@@ -128,14 +128,14 @@ Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o cód
 
 
 ```bash
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_02/Lab_02.c
+https://github.com/johnerik63/Estrutura_De_Dados_2024/blob/main/lab_02/Lab_02.c
 ```
 
 ## Todos os Arquivos do Repositório 🗃️
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
+https://github.com/johnerik63/Estrutura_De_Dados_2024
 ```
 
 </div>
@@ -149,7 +149,7 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_02/Lab_02.c"><img src="https://github.com/user-attachments/assets/84515c01-2c03-4ced-aca1-a5ef73ae686d" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_02/imagens"><img src="https://github.com/user-attachments/assets/b46a6dfc-a86a-43d6-af58-c519dc491da1" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/johnerik63/Estrutura_De_Dados_2024/blob/main/lab_02/Lab_02.c"><img src="https://github.com/user-attachments/assets/84515c01-2c03-4ced-aca1-a5ef73ae686d" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/johnerik63/Estrutura_De_Dados_2024/tree/main/lab_02/imagens"><img src="https://github.com/user-attachments/assets/b46a6dfc-a86a-43d6-af58-c519dc491da1" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
 
@@ -238,14 +238,14 @@ Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o cód
 
 
 ```bash
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_03/Lab_03.c
+https://github.com/johnerik63/Estrutura_De_Dados_2024/blob/main/lab_03/Lab_03.c
 ```
 
 ## Todos os Arquivos do Repositório 🗃️
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
+https://github.com/johnerik63/Estrutura_De_Dados_2024
 ```
 
 </div>
@@ -259,7 +259,7 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_03/Lab_03.c"><img src="https://github.com/user-attachments/assets/711f8bce-0030-401c-be39-d13788aed24b" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_03/imagens"><img src="https://github.com/user-attachments/assets/e71af62e-9936-4b15-9f01-1fc91ab4d83e" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/johnerik63/Estrutura_De_Dados_2024/blob/main/lab_03/Lab_03.c"><img src="https://github.com/user-attachments/assets/711f8bce-0030-401c-be39-d13788aed24b" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/johnerik63/Estrutura_De_Dados_2024/tree/main/lab_03/imagens"><img src="https://github.com/user-attachments/assets/e71af62e-9936-4b15-9f01-1fc91ab4d83e" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
 
@@ -269,5 +269,5 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 ## Contatos 📞
 
  
-  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](johnerik63@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/johnerik63/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/johnerik63)
   
